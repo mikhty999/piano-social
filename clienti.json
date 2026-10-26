@@ -8,7 +8,7 @@
    "referente": "Lucia",
    "breve": "Estetica & Benessere",
    "album": "Piano Lucia",
-   "base": "https://raw.githubusercontent.com/mikhty999/piano-lucia/main/",
+   "base": "clienti/lucia-estetica-benessere/",
    "cache": "content",
    "chiaveStorica": "piano_instagram_lucia_v1",
    "notifIdx": 0,
