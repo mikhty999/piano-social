@@ -12,8 +12,13 @@
    "cache": "content",
    "chiaveStorica": "piano_instagram_lucia_v1",
    "notifIdx": 0,
-   "pubblica": true,
-   "privato": null,
+   "pubblica": false,
+   "privato": {
+    "repo": "mikhty999/piano-social-privato",
+    "path": "lucia-estetica-benessere/",
+    "ref": "main"
+   },
+   "nellApk": false,
    "tema": {
     "light": {
      "bg": "#F2ECE3",
@@ -95,6 +100,7 @@
     "path": "euroansa-ravenna/",
     "ref": "main"
    },
+   "nellApk": true,
    "tema": {
     "light": {
      "bg": "#F6F7F7",
