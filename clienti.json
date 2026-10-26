@@ -13,6 +13,7 @@
    "chiaveStorica": "piano_instagram_lucia_v1",
    "notifIdx": 0,
    "pubblica": true,
+   "privato": null,
    "tema": {
     "light": {
      "bg": "#F2ECE3",
@@ -81,7 +82,7 @@
    "id": "euroansa-ravenna",
    "nome": "Euroansa – Ufficio di Ravenna",
    "handle": "",
-   "referente": "sede Euroansa (marketing), tramite Stefano",
+   "referente": "la sede, tramite Stefano",
    "breve": "Euroansa",
    "album": "Piano Euroansa",
    "base": "clienti/euroansa-ravenna/",
@@ -89,6 +90,11 @@
    "chiaveStorica": null,
    "notifIdx": 1,
    "pubblica": false,
+   "privato": {
+    "repo": "mikhty999/piano-social-privato",
+    "path": "euroansa-ravenna/",
+    "ref": "main"
+   },
    "tema": {
     "light": {
      "bg": "#F6F7F7",
