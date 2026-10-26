@@ -35,7 +35,8 @@
      "done": "#AAB0A1",
      "box": "#AFADA8",
      "warm": "#B4662E",
-     "warm-soft": "#F2E3D9"
+     "warm-soft": "#F2E3D9",
+     "tint": "#DCE1DB"
     },
     "dark": {
      "bg": "#1C1E20",
@@ -52,7 +53,8 @@
      "done": "#6F7A6E",
      "box": "#7E7C79",
      "warm": "#CA946D",
-     "warm-soft": "#423024"
+     "warm-soft": "#423024",
+     "tint": "#292F27"
     },
     "hero": {
      "light": [
@@ -117,7 +119,8 @@
      "done": "#7A8E9A",
      "box": "#A6AEB4",
      "warm": "#C4742E",
-     "warm-soft": "#F4E6D9"
+     "warm-soft": "#F4E6D9",
+     "tint": "#CCE2F0"
     },
     "dark": {
      "bg": "#07141D",
@@ -134,7 +137,8 @@
      "done": "#507890",
      "box": "#747B80",
      "warm": "#D69E6D",
-     "warm-soft": "#362C21"
+     "warm-soft": "#362C21",
+     "tint": "#143143"
     },
     "hero": {
      "light": [
